@@ -1,4 +1,3 @@
-# luzia
 public class Livros {
 	public static void main(String[] args) {
 	int livro;
@@ -124,7 +123,7 @@ public class Livros {
 		opcBcktMn1 = entrada.nextInt();
 		if(opcBcktMn1 == 2) {
 			System.out.println("Obrigado, volte sempre!");
-			
+			break;
 			}
 		if(opcBcktMn1 >=3) {
 			System.out.println("Opção inválida!");
